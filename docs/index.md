@@ -6,6 +6,8 @@
 
 ### Aaron Manoj
 
+![Aaron Manoj](images/porofoilo-jpg)
+
 I am Aaron Manoj I am 18, I go to durham collage. In my free time I like to draw, I use a huion drawing tablet and jump betteewn krita and photoshop. I also like to read manga and watch anime and play video games and also enjoy fliming.
 
 
