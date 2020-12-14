@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/Jasper112-J/blog-1/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## About us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Aaron Manoj
 
-```markdown
-Syntax highlighted code block
+I am Aaron Manoj I am 18, I go to durham collage. In my free time I like to draw, I use a huion drawing tablet and jump betteewn krita and photoshop. I also like to read manga and watch anime and play video games and also enjoy fliming.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Stanley Jonathan Filice
 
-1. Numbered
-2. List
+My name is Stanley Filice, I am 19 years old and I am a College Student. The two things that I like to do on my spare time is listening to Music and watching Sports. I also like to play Video Games and read. 
 
-**Bold** and _Italic_ and `Code` text
+## Other imformation
 
-[Link](url) and ![Image](src)
-```
+## Contact us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+stanleyjonathan.filice@dcmail.ca
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jasper112-J/blog-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+aaron.manoj@ddcmail.ca
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
