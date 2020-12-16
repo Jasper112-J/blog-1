@@ -13,6 +13,8 @@ I am Aaron Manoj I am 18, I go to durham collage. In my free time I like to draw
 
 ### Stanley Jonathan Filice
 
+![Stanley Jonathan Filice](images/viewprofileimage.jpg)
+
 My name is Stanley Filice, I am 19 years old and I am a College Student. The two things that I like to do on my spare time is listening to Music and watching Sports. I also like to play Video Games and read. 
 
 ## Other imformation
